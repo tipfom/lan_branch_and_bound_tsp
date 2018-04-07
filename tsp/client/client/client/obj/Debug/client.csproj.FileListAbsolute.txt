@@ -1,0 +1,14 @@
+C:\Users\Tim\Desktop\tsp\client\client\client\bin\Debug\client.exe.config
+C:\Users\Tim\Desktop\tsp\client\client\client\bin\Debug\client.exe
+C:\Users\Tim\Desktop\tsp\client\client\client\bin\Debug\client.pdb
+C:\Users\Tim\Desktop\tsp\client\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Desktop\tsp\client\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Desktop\tsp\client\client\client\obj\Debug\client.exe
+C:\Users\Tim\Desktop\tsp\client\client\client\obj\Debug\client.pdb
+C:\Users\sgspokatoc\Desktop\tsp\client\client\client\bin\Debug\client.exe.config
+C:\Users\sgspokatoc\Desktop\tsp\client\client\client\bin\Debug\client.exe
+C:\Users\sgspokatoc\Desktop\tsp\client\client\client\bin\Debug\client.pdb
+C:\Users\sgspokatoc\Desktop\tsp\client\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\sgspokatoc\Desktop\tsp\client\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\sgspokatoc\Desktop\tsp\client\client\client\obj\Debug\client.exe
+C:\Users\sgspokatoc\Desktop\tsp\client\client\client\obj\Debug\client.pdb
